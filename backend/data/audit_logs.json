@@ -328,5 +328,16 @@
     "details": "Farmer krushna tanpure registered account from Jalgaon Village, Jalgaon, Maharashtra.",
     "performedBy": "krushna tanpure",
     "timestamp": "2026-09-12T13:29:26.823Z"
+  },
+  {
+    "logId": "LOG-1790678412927-DDIH",
+    "entityType": "FARMER",
+    "entityId": "FARM-MA-5907",
+    "eventType": "FARMER_REGISTERED",
+    "previousValue": null,
+    "newValue": "Registered ID: FARM-MA-5907",
+    "details": "Farmer Saish  Inamke registered account from Nashik Village, Nashik, Maharashtra.",
+    "performedBy": "Saish  Inamke",
+    "timestamp": "2026-09-29T10:40:12.927Z"
   }
 ]
